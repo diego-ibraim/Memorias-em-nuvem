@@ -1,0 +1,7 @@
+vendor/
+.well-known/
+Uploads/
+img/
+config.php
+composer.phar
+.env
